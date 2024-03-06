@@ -1,7 +1,7 @@
 # SkinCancerRecognitionISIC
 The ml model to reocgnize skin cancer by using images using Tensorflow EfficientNet
 The ml model to reocgnze skin cancer by using images
-
+link to model https://drive.google.com/drive/folders/1cqfsRKE643PNMhZZHmXK5kmqSWXJJn2S?usp=sharing
 ---
 ## Structure:
 
